@@ -1,0 +1,19 @@
+"/root/Maildir": 1 message 1 unread
+>U   1 Txefin                               14/441   prueba
+Return-Path: <txefin@servidoras.xyz>
+X-Original-To: root@servidoras.xyz
+Delivered-To: root@servidoras.xyz
+Received: by servidoras.xyz (Postfix, from userid 0)
+        id CF3263FCC6; Wed, 29 Dec 2021 12:46:15 +0000 (UTC)
+Subject: prueba
+From: Txefin <txefin@servidoras.xyz>
+To: <jon@servidoras.xyz>
+X-Mailer: mail (GNU Mailutils 3.7)
+Message-Id: <20211229124615.CF3263FCC6@servidoras.xyz>
+Date: Wed, 29 Dec 2021 12:46:15 +0000 (UTC)
+
+Mensaje:
+Kaixo
+
+Saved 1 message in /root/mbox
+Held 0 messages in /root/Maildir
